@@ -1,7 +1,7 @@
 # -CrackYourPlacement 
 # CRACK THE PLACEMENT CHALLENGE BY ARSH GOYAL
-# Introduction
-The Arsh DSA Sheet is a comprehensive collection of 300 DSA problems tailored to help you prepare for technical interviews. It covers a wide range of topics and difficulty levels, providing a structured approach to mastering Data Structures and Algorithms.
+# Introductions
+The Arsh DSA Sheet is a comprehensive collection of 287 DSA problems tailored to help you prepare for technical interviews. It covers a wide range of topics and difficulty levels, providing a structured approach to mastering Data Structures and Algorithms.
 
 # Topics Covered
 - Arrays
