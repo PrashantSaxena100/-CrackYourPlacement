@@ -4,18 +4,18 @@
 The Arsh DSA Sheet is a comprehensive collection of 300 DSA problems tailored to help you prepare for technical interviews. It covers a wide range of topics and difficulty levels, providing a structured approach to mastering Data Structures and Algorithms.
 
 # Topics Covered
-.Arrays
-.Strings
-.Linked Lists
-.Stacks & Queues
-.Trees & Graphs
-.Dynamic Programming
-.Backtracking
-.Greedy Algorithms
-.Bit Manipulation
-.Mathematical Problems
-.Segmented Tree
-.Two Pointers and Sliding Window
+. Arrays
+. Strings
+. Linked Lists
+. Stacks & Queues
+. Trees & Graphs
+. Dynamic Programming
+. Backtracking
+. Greedy Algorithms
+. Bit Manipulation
+. Mathematical Problems
+. Segmented Tree
+. Two Pointers and Sliding Window
 .Trie
 # How to Use
    1.**Select a Topic**: Start with any topic you're comfortable with or want to improve in.
@@ -28,4 +28,4 @@ The sheet is divided into multiple categories with varying difficulty levels. Ea
   .**Understand Concepts**: Focus on understanding the underlying concepts, not just the solutions.
   .**Seek Help**: Join study groups or forums if you get stuck.
 
-For more details and to start practicing, visit the https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
+For more details and to start practicing, visit the (Arsh Goyal)https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
