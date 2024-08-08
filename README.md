@@ -28,4 +28,4 @@ The sheet is divided into multiple categories with varying difficulty levels. Ea
   .**Understand Concepts**: Focus on understanding the underlying concepts, not just the solutions.
   .**Seek Help**: Join study groups or forums if you get stuck.
 
-For more details and to start practicing, visit the (Arsh Goyal)https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
+For more details and to start practicing, visit the [Arsh Goyal](https://www.proelevate.in/dsa-practice/arsh-dsa-sheet)
