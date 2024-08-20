@@ -17,7 +17,7 @@ The Arsh DSA Sheet is a comprehensive collection of 287 DSA problems tailored to
 - Segmented Tree
 - Two Pointers and Sliding Window
 - Trie
-- 
+ 
 # How to Use
 1. **Select a Topic**: Start with any topic you're comfortable with or want to improve in.
 2. **Solve Problems**: Follow the links to problem statements on coding platforms and solve them.
